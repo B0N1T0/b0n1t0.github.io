@@ -3,7 +3,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-My name is **Gustavo Bonito** (alias **b0n1t0**), and I'm full-time Penetration Tester, Bug Hunter, [Offensive Security Certified Professional (OSCP)](https://www.youracclaim.com/badges/058f7d67-06a4-4496-a30f-afc154db954c/public_url) and [Offensive Security Web Expert (OSWE)](https://www.credly.com/badges/7873ef7b-c25b-4075-9d67-9df8ef27e1ad/public_url).
+My name is **Gustavo Bonito** (alias **b0n1t0**), and I'm full-time Penetration Tester, Security Researcher, [Offensive Security Certified Professional (OSCP)](https://www.youracclaim.com/badges/058f7d67-06a4-4496-a30f-afc154db954c/public_url) and [Offensive Security Web Expert (OSWE)](https://www.credly.com/badges/7873ef7b-c25b-4075-9d67-9df8ef27e1ad/public_url).
 
 The main goal with this blog is to share security researches, bug bounty reports, CTF solutions and anything else related to CyberSecurity.
 
